@@ -1,4 +1,4 @@
-fastapi
+fastapi[standard]
 uvicorn
 onnx
 onnxruntime
@@ -6,3 +6,4 @@ torch
 torchvision
 numpy
 Pillow
+loguru
